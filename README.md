@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm İlayda Çelik  
+### Hybrid Business Intelligence & Backend Engineer  
 
-<!--
-**ilydcelik/ilydcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Türkiye  
+💼 BI & Data Engineering @ Tarım Kredi Holding  
+🔥 Qlik Sense • SQL • ETL • Data Modeling • .NET Web API  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlight Projects  
+| Project | Stack | Link |
+|--------|-------|------|
+BI Hybrid Portfolio | Qlik Sense, SQL, ETL, .NET API | 🔗 https://github.com/ilydcelik/bi-hybrid-portfolio  
+Telefon Rehberi App | Angular + .NET Core + EF | 🔗 (repo link varsa ekle)  
+WordPress Automation Setup | SEO + Hosting Mgmt | 🔗 (repo / doc varsa ekle)  
+
+---
+
+### 🧠 Technical Skills
+
+**Business Intelligence**
+- Qlik Sense (Data Model, Expressions, UI)
+- KPI Design & Dashboarding
+- Section Access Security
+
+**Data Engineering**
+- SQL (Views, Stored Proc, Incremental ETL)
+- Data Modeling (Star Schema, DWH)
+- Performance Optimization
+
+**Backend**
+- .NET Web API
+- Entity Framework Core
+- REST Services
+
+**Tools**
+- Git & GitHub
+- SSMS
+- VS Code / Rider
+- JIRA / Confluence / Notion
+
+---
+
+### 📊 Featured BI Portfolio Demo
+
+> Full synthetic demo dashboard & ETL flow
+
+🔗 https://github.com/ilydcelik/bi-hybrid-portfolio  
+
+---
+
+### 🌿 About Me  
+🎯 Building expertise in BI + Backend  
+🏔️ Hiking & nature content creator  
+🧠 Always improving technical & creative skills  
+
+📩 Contact: **ilydcelik6@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/celikilaydaa
+

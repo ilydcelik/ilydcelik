@@ -11,8 +11,7 @@
 | Project | Stack | Link |
 |--------|-------|------|
 BI Hybrid Portfolio | Qlik Sense, SQL, ETL, .NET API | 🔗 https://github.com/ilydcelik/bi-hybrid-portfolio  
-Telefon Rehberi App | Angular + .NET Core + EF | 🔗 (repo link varsa ekle)  
-WordPress Automation Setup | SEO + Hosting Mgmt | 🔗 (repo / doc varsa ekle)  
+Telefon Rehberi App | Angular + .NET Core + EF | 🔗 https://github.com/ilydcelik/telefon-rehberi-app
 
 ---
 

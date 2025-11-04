@@ -2,7 +2,7 @@
 ### Hybrid Business Intelligence & Backend Engineer  
 
 📍 Türkiye  
-💼 BI & Data Engineering @ Tarım Kredi Holding  
+💼 BI & Data Engineering @ Tarım Kredi Teknoloji  
 🔥 Qlik Sense • SQL • ETL • Data Modeling • .NET Web API  
 
 ---
